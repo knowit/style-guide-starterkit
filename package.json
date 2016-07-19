@@ -1,0 +1,33 @@
+{
+  "name": "style-guide-starterkit",
+  "description": "The gulp wrapper around patternlab-node core, providing tasks to interact with the core library and move supporting frontend assets.",
+  "version": "0.0.1",
+  "repository": "https://github.knowit.no/knowit/style-guide-starterkit",
+  "dependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "gulpjs/gulp#4.0",
+    "minimist": "^1.2.0",
+    "patternlab-node": "^2.0.0",
+    "styleguidekit-assets-default": "^3.0.0",
+    "styleguidekit-mustache-default": "^3.0.0",
+    "style-starterkit": "knowit/style-starterkit",
+    "style-starterkit-assets": "knowit/style-starterkit-assets"
+  },
+  "engines": {
+    "node": ">=5.0"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Web Design",
+    "Node",
+    "Gulp",
+    "Javascript"
+  ],
+  "author": {
+    "name": "Torleif Halseth",
+    "email": "torleif.halseth@knowit.no",
+    "url": "http://github.com/thalseth"
+  },
+  "contributors": [],
+  "license": "Apache-2.0"
+}
